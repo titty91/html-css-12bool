@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[class*="col-"]{
+  min-height: 150px;
+  background-color: pink;
+  border: 1px solid black;
+  text-align: center;
+  padding: auto;
+}
+
+.row .red{
+  background-color: red;
+  height: 100%;
+  width: 100%;
+}
+
+.text{
+  margin-top: 20px;
+}
