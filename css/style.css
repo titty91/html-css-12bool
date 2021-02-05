@@ -10,12 +10,13 @@
   border: 1px solid black;
   text-align: center;
   position: relative;
+  padding: 2px;
 }
 
-.row .red{
+
+.red{
   background-color: red;
-  height: 100%;
-  width: 100%;
+  border: 1px solid white;
 }
 
 .testo{
